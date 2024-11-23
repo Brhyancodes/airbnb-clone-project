@@ -225,3 +225,45 @@ By prioritizing user-friendly design, the Airbnb Clone project aims to provide a
 ### Conclusion
 
 These roles are essential for the success of a software development project. Clear communication and collaboration among team members ensure that the project is completed on time, within budget, and meets the desired quality standards.
+
+## UI Component Patterns
+
+### Navbar
+
+**Overview**: The Navbar is a crucial component that provides navigation throughout the application. It allows users to access different sections of the site easily.
+
+**Key Features**:
+
+- **Logo**: Displays the brand logo, which links back to the homepage.
+- **Navigation Links**: Includes links to key pages such as Home, About, Contact, and Login/Register.
+- **Search Bar**: A search input field for users to quickly find properties.
+- **Responsive Design**: Adapts to different screen sizes, providing a mobile-friendly experience.
+
+### Property Card
+
+**Overview**: The Property Card showcases individual listings, providing essential information at a glance.
+
+**Key Features**:
+
+- **Image**: Displays a prominent image of the property.
+- **Title**: Shows the name of the property.
+- **Price**: Indicates the price per night.
+- **Rating**: Displays user ratings and reviews.
+- **Location**: Provides the location of the property.
+- **Availability**: Indicates whether the property is available for booking.
+- **Call to Action**: A button to view more details or book the property.
+
+### Footer
+
+**Overview**: The Footer provides additional navigation and information about the application.
+
+**Key Features**:
+
+- **Links**: Includes links to privacy policy, terms of service, and contact information.
+- **Social Media Icons**: Links to social media profiles for user engagement.
+- **Copyright Information**: Displays copyright details and the year.
+- **Responsive Design**: Ensures that the footer is accessible and visually appealing on all devices.
+
+### Conclusion
+
+These UI components are essential for creating a user-friendly interface for the Airbnb clone project. Each component is designed to enhance the user experience and facilitate easy navigation and interaction within the application.
