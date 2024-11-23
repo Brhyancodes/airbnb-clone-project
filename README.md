@@ -65,14 +65,14 @@ This application consists of four primary pages, each serving a unique purpose i
 
 A user-friendly design is crucial in a booking system for several reasons:
 
-1. **Enhanced User Experience**: A well-designed interface helps users navigate the application easily, reducing frustration and improving overall satisfaction. Users are more likely to return to a platform that is intuitive and easy to use.
+1. Enhanced User Experience: A well-designed interface helps users navigate the application easily, reducing frustration and improving overall satisfaction. Users are more likely to return to a platform that is intuitive and easy to use.
 
-2. **Increased Conversion Rates**: A seamless booking process minimizes drop-offs during the checkout phase. By simplifying the steps required to complete a booking, you can increase the likelihood that users will finalize their reservations.
+2. Increased Conversion Rates: A seamless booking process minimizes drop-offs during the checkout phase. By simplifying the steps required to complete a booking, you can increase the likelihood that users will finalize their reservations.
 
-3. **Accessibility**: A user-friendly design ensures that the application is accessible to a wider audience, including those with disabilities. This can include features like screen reader compatibility, keyboard navigation, and clear visual indicators.
+3. Accessibility: A user-friendly design ensures that the application is accessible to a wider audience, including those with disabilities. This can include features like screen reader compatibility, keyboard navigation, and clear visual indicators.
 
-4. **Trust and Credibility**: A polished, professional design instills trust in users. When a platform appears well-organized and visually appealing, users are more likely to feel confident in using it for their booking needs.
+4. Trust and Credibility: A polished, professional design instills trust in users. When a platform appears well-organized and visually appealing, users are more likely to feel confident in using it for their booking needs.
 
-5. **Mobile Responsiveness**: With an increasing number of users booking accommodations via mobile devices, a user-friendly design must be responsive. This ensures that users have a consistent experience across all devices, whether they are using a smartphone, tablet, or desktop.
+5. Mobile Responsiveness: With an increasing number of users booking accommodations via mobile devices, a user-friendly design must be responsive. This ensures that users have a consistent experience across all devices, whether they are using a smartphone, tablet, or desktop.
 
 By prioritizing user-friendly design, the Airbnb Clone project aims to provide a positive experience that encourages users to explore, book, and return to the platform.
