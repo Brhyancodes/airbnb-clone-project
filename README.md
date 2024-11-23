@@ -21,6 +21,53 @@ The Airbnb Clone Project is a web application that mimics the functionality of A
 
 ## UI/UX Design Planning
 
+## Color Styles
+
+Primary Color: #FF5A5 - Secondary Color: #00A699
+Accent Color: #FFB400
+Background Color: #F7F7F7
+Text Color: #484848
+Link Color: #FF5A5F
+Border Color: #DDDDDD
+
+## Typography
+
+Font Family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif
+Headings:
+H1:
+Font Weight: 700
+Font Size: 39px
+H2:
+Font Weight: 600
+Font Size: 24px
+H3:
+Font Weight: 500
+Font Size: 20px
+Body Text:
+Font Weight: 400
+Font Size: 16px
+Small Text:
+Font Weight: 400
+Font Size: 14px
+
+## Importance of Identifying Design Properties
+
+Identifying design properties in a mock-up design is crucial for several reasons:
+
+Consistency: Establishing a clear set of design properties ensures that the visual elements of the application are consistent throughout. This consistency helps in creating a cohesive user experience.
+
+Brand Identity: Color styles and typography play a significant role in conveying the brand's identity. By defining these properties, the design aligns with the brand's values and messaging.
+
+User Experience: Well-defined design properties enhance usability. For instance, choosing appropriate font sizes and colors can improve readability and accessibility, making it easier for users to navigate the application.
+
+Development Efficiency: When design properties are clearly documented, developers can implement them more efficiently. This reduces the chances of miscommunication between designers and developers, leading to a smoother development process.
+
+Future Scalability: As the project evolves, having a documented set of design properties allows for easier updates and scalability. New features can be integrated without compromising the overall design integrity.
+
+Feedback and Iteration: Identifying design properties allows for better feedback during the design review process. Stakeholders can provide input on specific elements, leading to more informed design decisions.
+
+By documenting these design properties in the README, you provide a valuable reference for both current and future team members, ensuring that the project maintains its design integrity as it grows.
+
 ## Design Goals
 
 The goal of this project is to give me practical experience in developing a simple booking and management system using AirBnB as a case study. A good booking system should have a simple but lovely UI/UX that allows users to perform basic functionalities.
